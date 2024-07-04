@@ -1,0 +1,25 @@
+{
+  "name": "neetai",
+  "version": "1.0.0",
+  "description": "A project for AI-based solutions for NEET preparation.",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "source venv/bin/activate && python app.py"
+  },
+  "author": "ayaansiddiqui1462@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/still-rollin/neetAI.git"
+  },
+  "keywords": [
+    "NEET",
+    "AI",
+    "education"
+  ],
+  "bugs": {
+    "url": "https://github.com/still-rollin/neetAI/issues"
+  },
+  "homepage": "https://github.com/still-rollin/neetAI#readme"
+}
